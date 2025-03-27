@@ -39,6 +39,7 @@ https://github.com/user-attachments/assets/d0627658-a3d0-44d5-ae73-66dc7f162688
 
 1.  Clone this repository:
     ```bash
+    git@github.com:GourangaDasSamrat/Responsive-Restaurant-Website.git
     
 2.  Navigate to the project directory:
     ```bash
