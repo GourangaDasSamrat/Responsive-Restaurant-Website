@@ -5,10 +5,18 @@
 This project is a fully responsive restaurant website. 📱💻 It is designed to provide users with a beautiful and easy-to-use interface. Here, the restaurant's menu, special offers, and other important information can be displayed.
 
 🌟 **Live Demo**
-Check out the live version of the website: [Responsive Restaurant Website]()
+Check out the live version of the website: [Responsive Restaurant Website](https://responsiveresturentwebsitebygouranga.netlify.app/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
+
+https://github.com/user-attachments/assets/650e3c25-4b3b-4005-a797-982167b0d8c4
+
+
+
+https://github.com/user-attachments/assets/d0627658-a3d0-44d5-ae73-66dc7f162688
+
+
 
 
 ## ✨ Key Features
@@ -40,7 +48,7 @@ Watch the video walkthrough of the project to see it in action!
 
 or
 
-**[Click here]() to see this project on internet.**
+**[Click here](https://responsiveresturentwebsitebygouranga.netlify.app/) to see this project on internet.**
 
 ## 💻 Usage
 
